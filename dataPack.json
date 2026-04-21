@@ -2,7 +2,7 @@
   {
     "id": 1,
     "tag": "Best Seller",
-    "iconPath": "/icons/writing.svg",
+    "iconPath": "./icons/writing.svg",
     "title": "AI Writing Pro",
     "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
     "price": "$29/Mo",
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "tag": "Popular",
-    "iconPath": "/icons/design-tool.svg",
+    "iconPath": "./icons/design-tool.svg",
     "title": "Design Templates Pack",
     "description": "2000+ premium templates for social media, presentations, and marketing materials.",
     "price": "$49/One-Time",
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "tag": "New",
-    "iconPath": "/icons/camera.svg",
+    "iconPath": "./icons/camera.svg",
     "title": "Premium Stock Assets",
     "description": "Access millions of royalty-free photos, videos, and graphics for your projects.",
     "price": "$19/Mo",
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "tag": "Popular",
-    "iconPath": "/icons/operation.svg",
+    "iconPath": "./icons/operation.svg",
     "title": "Automation Toolkit",
     "description": "Automate repetitive tasks and streamline your workflow with powerful tools.",
     "price": "$79/Mo",
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "tag": "New",
-    "iconPath": "/icons/portfolio.svg",
+    "iconPath": "./icons/portfolio.svg",
     "title": "Resume Builder Pro",
     "description": "Create professional resumes and cover letters that land interviews.",
     "price": "$15/One-Time",
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "tag": "Best Seller",
-    "iconPath": "/icons/social-media.svg",
+    "iconPath": "./icons/social-media.svg",
     "title": "Social Media Content Kit",
     "description": "Complete toolkit for creating engaging social media content across all platforms.",
     "price": "$39/Mo",
