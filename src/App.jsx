@@ -13,7 +13,7 @@ import ProductCart from './ProductCart'
 import Cart from './Cart'
 
 const alldata = async () => {
-  const res = await fetch("/dataPack.json");
+  const res = await fetch("./dataPack.json");
   return res.json();
 };
 const dataPackPromise = alldata();
