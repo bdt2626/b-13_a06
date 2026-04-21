@@ -15,7 +15,7 @@ const SingleData = ({ dataPack, addToCart, setAddToCart }) => {
     e.preventDefault(); 
 
     if (isAlreadyInCart) {
-      toast.info("Already in cart", { toastId: `exists-${dataPack.id}` });
+      toast.info("Already in the cart", { toastId: `exists-${dataPack.id}` });
       return;
     }
 
@@ -41,7 +41,7 @@ const SingleData = ({ dataPack, addToCart, setAddToCart }) => {
         <h2 className="text-[26px] font-extrabold text-slate-800 mb-4 leading-tight">
           {dataPack.title}
         </h2>
-        <p className="text-slate-500 text-[15px] leading-relaxed mb-6">
+        <p className="text-slate-600 text-[15px] leading-relaxed mb-6">
           {dataPack.description}
         </p>
 
